@@ -1,1 +1,1 @@
-function validate() {...}
+function() {alert(hello)}
